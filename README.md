@@ -1,2 +1,2 @@
-# US-States-Game-QUIZ
+QUIZ with guessing US states. 
  
